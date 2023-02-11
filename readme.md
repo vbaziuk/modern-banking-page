@@ -1,3 +1,15 @@
-modern responsive banking application with react js
+# Modern Responsive Banking App Site
 
-using tailwind CSS to style the project which looks like extra params within the className tags.
+## Description
+This project uses Vite, React, TailwindCSS to create a single page site to demo a modern banking application. Fully responsive on web and mobile.
+
+## Installation
+
+Simply use our good trusty friend:
+
+```
+$ npm install
+```
+
+## Usage
+Use this as reference for how you can use TailwindCSS to brighten up your single page applications.
