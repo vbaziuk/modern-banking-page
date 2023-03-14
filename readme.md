@@ -12,4 +12,11 @@ $ npm install
 ```
 
 ## Usage
+
+to run this app, use:
+```
+$ npm run dev
+```
+
+
 Use this as reference for how you can use TailwindCSS to brighten up your single page applications.
